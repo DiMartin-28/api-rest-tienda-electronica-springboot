@@ -29,7 +29,6 @@ La aplicación debe servir de backend para futuras aplicaciones web y mobile, fa
 -  Descuento automático por cliente recurrente
 -  Validaciones de stock insuficiente
 -  Reportes de ventas y stock
--  Manejo de errores y excepciones centralizado
 
 ## 📱 Escenario de uso
 
@@ -80,6 +79,6 @@ src
 ## Autor
 
 Martín Díaz
-Estudiante de Análisis de Sistemas | Backend Developer
+Estudiante de Análisis de Sistemas | Java Backend Developer
 
 
